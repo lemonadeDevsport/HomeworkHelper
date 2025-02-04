@@ -5,7 +5,7 @@
 ![Google%20API](https://img.shields.io/badge/Google%20API-Enabled-brightgreen)
 
 ## Description
-Homework Helper is a web application designed to assist students with their homework assignments. The application provides a user-friendly interface and various tools to make learning more engaging and effective. The application is built using HTML, CSS, and JavaScript.
+StudyTrack is a web application designed to assist students with their homework assignments. The application provides a user-friendly interface and various tools to make learning more engaging and effective. The application is built using HTML, CSS, and JavaScript.
 
 ## Features
 - **User-friendly Interface**: Easy navigation and accessibility.
@@ -15,16 +15,16 @@ Homework Helper is a web application designed to assist students with their home
 - **Collaborative Tools**: Work together with peers on homework assignments.
 
 ## Installation
-To get started with Homework Helper, follow these steps:
+To get started with StudyTrack, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/homework-helper.git
+    git clone https://github.com/your-username/studytrack.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd homework-helper
+    cd studytrack
     ```
 
 3. Open the `index.html` file in your web browser to start using the application.
